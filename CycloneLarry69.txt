@@ -1,0 +1,3553 @@
+[
+    {
+        "created_at": "Mon Nov 29 16:12:28 +0000 2021",
+        "id": 1465352973588971527,
+        "id_str": "1465352973588971527",
+        "text": "Ope https://t.co/8yWIMKjH3W",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8yWIMKjH3W",
+                    "expanded_url": "https://twitter.com/chrisvannini/status/1465352581010665486",
+                    "display_url": "twitter.com/chrisvannini/s\u2026",
+                    "indices": [
+                        4,
+                        27
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1465352581010665486,
+        "quoted_status_id_str": "1465352581010665486",
+        "quoted_status": {
+            "created_at": "Mon Nov 29 16:10:54 +0000 2021",
+            "id": 1465352581010665486,
+            "id_str": "1465352581010665486",
+            "text": "Mike Aresco on the AAC championship press conference: \u201cOur championship is one of six to feature two ranked teams.\u2026 https://t.co/5Ak4Ez40Pf",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/5Ak4Ez40Pf",
+                        "expanded_url": "https://twitter.com/i/web/status/1465352581010665486",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 22068074,
+                "id_str": "22068074",
+                "name": "Chris Vannini",
+                "screen_name": "ChrisVannini",
+                "location": "Dallas (imported from Detroit)",
+                "description": "National college football reporter for The Athletic \u2022 Dogs and pro wrestling tweets \u2022 cvannini@theathletic.com",
+                "url": "https://t.co/BUHmjZhbIt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BUHmjZhbIt",
+                                "expanded_url": "http://theathletic.com/author/chris-vannini/",
+                                "display_url": "theathletic.com/author/chris-v\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 29231,
+                "friends_count": 2821,
+                "listed_count": 949,
+                "created_at": "Thu Feb 26 21:53:43 +0000 2009",
+                "favourites_count": 9426,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 202282,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1388701268458287104/IZ2KpKFQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388701268458287104/IZ2KpKFQ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/22068074/1627582761",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 79,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 0,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Mon Nov 29 15:22:44 +0000 2021",
+        "id": 1465340457618137088,
+        "id_str": "1465340457618137088",
+        "text": "@the_joe_goodman @RedDirtSport Me thinking about him every time I\u2019m about to fire off an OU hate tweet https://t.co/zaWZuk1ow8",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "the_joe_goodman",
+                    "name": "Joe Goodman",
+                    "id": 341625480,
+                    "id_str": "341625480",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "RedDirtSport",
+                    "name": "RedDirtSport",
+                    "id": 203810008,
+                    "id_str": "203810008",
+                    "indices": [
+                        17,
+                        30
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1465340451406417925,
+                    "id_str": "1465340451406417925",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/FFXvYHkXEAUn8DA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFXvYHkXEAUn8DA.jpg",
+                    "url": "https://t.co/zaWZuk1ow8",
+                    "display_url": "pic.twitter.com/zaWZuk1ow8",
+                    "expanded_url": "https://twitter.com/CycloneLarry69/status/1465340457618137088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 320,
+                            "h": 162,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 320,
+                            "h": 162,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 320,
+                            "h": 162,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1465340451406417925,
+                    "id_str": "1465340451406417925",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/FFXvYHkXEAUn8DA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFXvYHkXEAUn8DA.jpg",
+                    "url": "https://t.co/zaWZuk1ow8",
+                    "display_url": "pic.twitter.com/zaWZuk1ow8",
+                    "expanded_url": "https://twitter.com/CycloneLarry69/status/1465340457618137088/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 320,
+                            "h": 162,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 320,
+                            "h": 162,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 320,
+                            "h": 162,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            160,
+                            81
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/FFXvYHkXEAUn8DA.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1465338799513350149,
+        "in_reply_to_status_id_str": "1465338799513350149",
+        "in_reply_to_user_id": 341625480,
+        "in_reply_to_user_id_str": "341625480",
+        "in_reply_to_screen_name": "the_joe_goodman",
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 15:00:24 +0000 2021",
+        "id": 1465334835833184267,
+        "id_str": "1465334835833184267",
+        "text": "RT @j_swishy_35: @CycloneLarry69 One last chance to talk to your children before the poll comes out this afternoon https://t.co/cEvojyh5SW",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "j_swishy_35",
+                    "name": "Jared Gast",
+                    "id": 866109018569400320,
+                    "id_str": "866109018569400320",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "CycloneLarry69",
+                    "name": "Cyclone Larry",
+                    "id": 1168018744804691968,
+                    "id_str": "1168018744804691968",
+                    "indices": [
+                        17,
+                        32
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1465334571461926914,
+                    "id_str": "1465334571461926914",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                    "url": "https://t.co/cEvojyh5SW",
+                    "display_url": "pic.twitter.com/cEvojyh5SW",
+                    "expanded_url": "https://twitter.com/j_swishy_35/status/1465334575291420680/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1465334575291420680,
+                    "source_status_id_str": "1465334575291420680",
+                    "source_user_id": 866109018569400320,
+                    "source_user_id_str": "866109018569400320"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1465334571461926914,
+                    "id_str": "1465334571461926914",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                    "url": "https://t.co/cEvojyh5SW",
+                    "display_url": "pic.twitter.com/cEvojyh5SW",
+                    "expanded_url": "https://twitter.com/j_swishy_35/status/1465334575291420680/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1465334575291420680,
+                    "source_status_id_str": "1465334575291420680",
+                    "source_user_id": 866109018569400320,
+                    "source_user_id_str": "866109018569400320"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Nov 29 14:59:22 +0000 2021",
+            "id": 1465334575291420680,
+            "id_str": "1465334575291420680",
+            "text": "@CycloneLarry69 One last chance to talk to your children before the poll comes out this afternoon https://t.co/cEvojyh5SW",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CycloneLarry69",
+                        "name": "Cyclone Larry",
+                        "id": 1168018744804691968,
+                        "id_str": "1168018744804691968",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1465334571461926914,
+                        "id_str": "1465334571461926914",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                        "url": "https://t.co/cEvojyh5SW",
+                        "display_url": "pic.twitter.com/cEvojyh5SW",
+                        "expanded_url": "https://twitter.com/j_swishy_35/status/1465334575291420680/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 960,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 960,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1465334571461926914,
+                        "id_str": "1465334571461926914",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FFXqB3EWYAIY3zC.jpg",
+                        "url": "https://t.co/cEvojyh5SW",
+                        "display_url": "pic.twitter.com/cEvojyh5SW",
+                        "expanded_url": "https://twitter.com/j_swishy_35/status/1465334575291420680/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 960,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 960,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 1168018744804691968,
+            "in_reply_to_user_id_str": "1168018744804691968",
+            "in_reply_to_screen_name": "CycloneLarry69",
+            "user": {
+                "id": 866109018569400320,
+                "id_str": "866109018569400320",
+                "name": "Jared Gast",
+                "screen_name": "j_swishy_35",
+                "location": "",
+                "description": "Simpson College",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 155,
+                "friends_count": 186,
+                "listed_count": 0,
+                "created_at": "Sun May 21 01:50:56 +0000 2017",
+                "favourites_count": 8203,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 705,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1253371289856806912/omRnwDGb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253371289856806912/omRnwDGb_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/866109018569400320/1583330826",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 15:00:12 +0000 2021",
+        "id": 1465334788798271497,
+        "id_str": "1465334788798271497",
+        "text": "@TEEnsign Hey they helped!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TEEnsign",
+                    "name": "Taylor Ensign",
+                    "id": 16020383,
+                    "id_str": "16020383",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1465331691514327043,
+        "in_reply_to_status_id_str": "1465331691514327043",
+        "in_reply_to_user_id": 16020383,
+        "in_reply_to_user_id_str": "16020383",
+        "in_reply_to_screen_name": "TEEnsign",
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 14:40:13 +0000 2021",
+        "id": 1465329757101473796,
+        "id_str": "1465329757101473796",
+        "text": "@itshanklol I don\u2019t see any way Michigan wins the B12 title IMO",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "itshanklol",
+                    "name": "kansas jayhawk megafan",
+                    "id": 2263983362,
+                    "id_str": "2263983362",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1465319651768995840,
+        "in_reply_to_status_id_str": "1465319651768995840",
+        "in_reply_to_user_id": 2263983362,
+        "in_reply_to_user_id_str": "2263983362",
+        "in_reply_to_screen_name": "itshanklol",
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 51,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 14:38:43 +0000 2021",
+        "id": 1465329379651825669,
+        "id_str": "1465329379651825669",
+        "text": "Leaving a conference you\u2019ve been in for 100 years hasn\u2019t worked out this poorly for a school since the last time so\u2026 https://t.co/ti26PTP4F3",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ti26PTP4F3",
+                    "expanded_url": "https://twitter.com/i/web/status/1465329379651825669",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1465303794389065731,
+        "quoted_status_id_str": "1465303794389065731",
+        "quoted_status": {
+            "created_at": "Mon Nov 29 12:57:03 +0000 2021",
+            "id": 1465303794389065731,
+            "id_str": "1465303794389065731",
+            "text": "Along with Lincoln Riley, #Sooners DC Alex Grinch, receivers coach Dennis Simmons, director of ops Clarke Stroud &amp;\u2026 https://t.co/IIBbFHB4m5",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Sooners",
+                        "indices": [
+                            26,
+                            34
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/IIBbFHB4m5",
+                        "expanded_url": "https://twitter.com/i/web/status/1465303794389065731",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 28612422,
+                "id_str": "28612422",
+                "name": "Ryan Aber",
+                "screen_name": "ryaber",
+                "location": "Oklahoma City",
+                "description": "Oklahoma Sooners beat writer for The Oklahoman (@TheOklahoman_) and https://t.co/U6TwHLDq7c. Also dabble in hockey and baseball. Nemesis to @3yearletterman.",
+                "url": "https://t.co/yvt3dsElz4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/yvt3dsElz4",
+                                "expanded_url": "http://www.newsok.com/sports/ou",
+                                "display_url": "newsok.com/sports/ou",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/U6TwHLDq7c",
+                                "expanded_url": "http://oklahoman.com",
+                                "display_url": "oklahoman.com",
+                                "indices": [
+                                    68,
+                                    91
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 13056,
+                "friends_count": 2839,
+                "listed_count": 418,
+                "created_at": "Fri Apr 03 17:39:14 +0000 2009",
+                "favourites_count": 4339,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 45013,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/939910476116447233/Vj1X9akt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/939910476116447233/Vj1X9akt_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/28612422/1472344568",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 184,
+            "favorite_count": 740,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 6,
+        "favorite_count": 142,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 13:51:10 +0000 2021",
+        "id": 1465317414992809987,
+        "id_str": "1465317414992809987",
+        "text": "@gmackey32 I want hogs in the trenches. He will give me hogs in the trenches",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "gmackey32",
+                    "name": "Greg Mackey",
+                    "id": 121889359,
+                    "id_str": "121889359",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1465316894907506691,
+        "in_reply_to_status_id_str": "1465316894907506691",
+        "in_reply_to_user_id": 121889359,
+        "in_reply_to_user_id_str": "121889359",
+        "in_reply_to_screen_name": "gmackey32",
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 13:50:41 +0000 2021",
+        "id": 1465317291357356032,
+        "id_str": "1465317291357356032",
+        "text": "RT @gmackey32: If Lincoln Riley doesn\u2019t take Bill Bedenbaugh with him, Campbell HAS to make that phone call and give him whatever he wants\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "gmackey32",
+                    "name": "Greg Mackey",
+                    "id": 121889359,
+                    "id_str": "121889359",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Nov 29 13:49:06 +0000 2021",
+            "id": 1465316894907506691,
+            "id_str": "1465316894907506691",
+            "text": "If Lincoln Riley doesn\u2019t take Bill Bedenbaugh with him, Campbell HAS to make that phone call and give him whatever he wants to come to Ames.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 121889359,
+                "id_str": "121889359",
+                "name": "Greg Mackey",
+                "screen_name": "gmackey32",
+                "location": "Ames, IA",
+                "description": "Corn. Driven. Humidity. #pluggedhosegang",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 385,
+                "friends_count": 969,
+                "listed_count": 8,
+                "created_at": "Wed Mar 10 23:06:35 +0000 2010",
+                "favourites_count": 15918,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 19485,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1430675264170872834/2VHUK0a__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1430675264170872834/2VHUK0a__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/121889359/1595468588",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 54,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 13:49:02 +0000 2021",
+        "id": 1465316876255436801,
+        "id_str": "1465316876255436801",
+        "text": "If only history gave us examples they could\u2019ve learned from https://t.co/LDQztPqEM2",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LDQztPqEM2",
+                    "expanded_url": "https://twitter.com/overeactingcy/status/1465071492429926406",
+                    "display_url": "twitter.com/overeactingcy/\u2026",
+                    "indices": [
+                        60,
+                        83
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1465071492429926406,
+        "quoted_status_id_str": "1465071492429926406",
+        "quoted_status": {
+            "created_at": "Sun Nov 28 21:33:58 +0000 2021",
+            "id": 1465071492429926406,
+            "id_str": "1465071492429926406",
+            "text": "I increasingly get the feeling that Oklahoma and Texas leaving the Big12 is going to be the worst decision either school has ever made.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2780956442,
+                "id_str": "2780956442",
+                "name": "Overeacting Cy",
+                "screen_name": "overeactingCY",
+                "location": "Depends ",
+                "description": "#Cyclones & #Braves. Usually reasonable, occasionally political. Social distanced before it was cool. Smarter than you think I am, not as smart as I think I am",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 322,
+                "friends_count": 740,
+                "listed_count": 6,
+                "created_at": "Sat Aug 30 18:46:39 +0000 2014",
+                "favourites_count": 8245,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 12109,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1349920640363597824/bds2tVLq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349920640363597824/bds2tVLq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2780956442/1449207575",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 134,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 4,
+        "favorite_count": 81,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 13:46:31 +0000 2021",
+        "id": 1465316244136116235,
+        "id_str": "1465316244136116235",
+        "text": "https://t.co/RumbiirVOc https://t.co/OeRv5QUF3q",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RumbiirVOc",
+                    "expanded_url": "https://twitter.com/fingersfracheti/status/1465312198788591617",
+                    "display_url": "twitter.com/fingersfrachet\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1465316239790776325,
+                    "id_str": "1465316239790776325",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXZW0RXIAU3acv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXZW0RXIAU3acv.jpg",
+                    "url": "https://t.co/OeRv5QUF3q",
+                    "display_url": "pic.twitter.com/OeRv5QUF3q",
+                    "expanded_url": "https://twitter.com/CycloneLarry69/status/1465316244136116235/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 933,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 1447,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 529,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1465316239790776325,
+                    "id_str": "1465316239790776325",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXZW0RXIAU3acv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXZW0RXIAU3acv.jpg",
+                    "url": "https://t.co/OeRv5QUF3q",
+                    "display_url": "pic.twitter.com/OeRv5QUF3q",
+                    "expanded_url": "https://twitter.com/CycloneLarry69/status/1465316244136116235/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 933,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 1447,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 529,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1465312198788591617,
+        "quoted_status_id_str": "1465312198788591617",
+        "quoted_status": {
+            "created_at": "Mon Nov 29 13:30:27 +0000 2021",
+            "id": 1465312198788591617,
+            "id_str": "1465312198788591617",
+            "text": "@CycloneLarry69 Grief over what? The fact that UT is leaving the leeches behind? I was over the moon when I heard U\u2026 https://t.co/P6kAHr8dSd",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CycloneLarry69",
+                        "name": "Cyclone Larry",
+                        "id": 1168018744804691968,
+                        "id_str": "1168018744804691968",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/P6kAHr8dSd",
+                        "expanded_url": "https://twitter.com/i/web/status/1465312198788591617",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1465310158616240133,
+            "in_reply_to_status_id_str": "1465310158616240133",
+            "in_reply_to_user_id": 1168018744804691968,
+            "in_reply_to_user_id_str": "1168018744804691968",
+            "in_reply_to_screen_name": "CycloneLarry69",
+            "user": {
+                "id": 1401200367224995842,
+                "id_str": "1401200367224995842",
+                "name": "BannedRebel",
+                "screen_name": "FingersFracheti",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4,
+                "friends_count": 166,
+                "listed_count": 0,
+                "created_at": "Sat Jun 05 15:33:15 +0000 2021",
+                "favourites_count": 327,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1205,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1448420717956112385/M_v-eGOe_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448420717956112385/M_v-eGOe_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 8,
+        "favorite_count": 172,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Mon Nov 29 13:25:07 +0000 2021",
+        "id": 1465310856611303432,
+        "id_str": "1465310856611303432",
+        "text": "Oh so they\u2019re screwed screwed https://t.co/TqX5bINbcb",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/TqX5bINbcb",
+                    "expanded_url": "https://twitter.com/jasonkersey/status/1465303851389624329",
+                    "display_url": "twitter.com/jasonkersey/st\u2026",
+                    "indices": [
+                        30,
+                        53
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1465303851389624329,
+        "quoted_status_id_str": "1465303851389624329",
+        "quoted_status": {
+            "created_at": "Mon Nov 29 12:57:16 +0000 2021",
+            "id": 1465303851389624329,
+            "id_str": "1465303851389624329",
+            "text": "BREAKING: Lincoln Riley, defensive coordinator Alex Grinch, outside WRs coach Dennis Simmons, director of ops Clark\u2026 https://t.co/X8rVTgmoaq",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/X8rVTgmoaq",
+                        "expanded_url": "https://twitter.com/i/web/status/1465303851389624329",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18080983,
+                "id_str": "18080983",
+                "name": "Jason Kersey",
+                "screen_name": "jasonkersey",
+                "location": "Oklahoma",
+                "description": "I cover Oklahoma Sooners football for @TheAthletic | Ker-ZEE, like \"jersey\" | Bald is beautiful | \ud83d\udce7: jkersey@theathletic.com",
+                "url": "https://t.co/r3UvbmTpV1",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/r3UvbmTpV1",
+                                "expanded_url": "https://theathletic.com/team/oklahoma-sooners/",
+                                "display_url": "theathletic.com/team/oklahoma-\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 22370,
+                "friends_count": 3385,
+                "listed_count": 574,
+                "created_at": "Fri Dec 12 17:37:07 +0000 2008",
+                "favourites_count": 17742,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 70726,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1316874435954155528/bVGmnnq9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316874435954155528/bVGmnnq9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18080983/1599665017",
+                "profile_link_color": "91D2FA",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 214,
+            "favorite_count": 874,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 5,
+        "favorite_count": 142,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 13:22:20 +0000 2021",
+        "id": 1465310158616240133,
+        "id_str": "1465310158616240133",
+        "text": "https://t.co/mVOts9t0yJ https://t.co/1mO2qplSHA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/mVOts9t0yJ",
+                    "expanded_url": "https://twitter.com/fingersfracheti/status/1465305792681328640",
+                    "display_url": "twitter.com/fingersfrachet\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1465310154732228612,
+                    "id_str": "1465310154732228612",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXT0nqWUAQXVMg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXT0nqWUAQXVMg.jpg",
+                    "url": "https://t.co/1mO2qplSHA",
+                    "display_url": "pic.twitter.com/1mO2qplSHA",
+                    "expanded_url": "https://twitter.com/CycloneLarry69/status/1465310158616240133/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1465310154732228612,
+                    "id_str": "1465310154732228612",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXT0nqWUAQXVMg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXT0nqWUAQXVMg.jpg",
+                    "url": "https://t.co/1mO2qplSHA",
+                    "display_url": "pic.twitter.com/1mO2qplSHA",
+                    "expanded_url": "https://twitter.com/CycloneLarry69/status/1465310158616240133/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1465305792681328640,
+        "quoted_status_id_str": "1465305792681328640",
+        "quoted_status": {
+            "created_at": "Mon Nov 29 13:04:59 +0000 2021",
+            "id": 1465305792681328640,
+            "id_str": "1465305792681328640",
+            "text": "@the_ben064 @claimstakeDWW @CycloneLarry69 And yet their universities still can\u2019t earn enough money, so they need t\u2026 https://t.co/BXdi9Lw7Ip",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "the_ben064",
+                        "name": "HD sancho\u2122",
+                        "id": 3220920230,
+                        "id_str": "3220920230",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "claimstakeDWW",
+                        "name": "claimstake",
+                        "id": 1402011015357865984,
+                        "id_str": "1402011015357865984",
+                        "indices": [
+                            12,
+                            26
+                        ]
+                    },
+                    {
+                        "screen_name": "CycloneLarry69",
+                        "name": "Cyclone Larry",
+                        "id": 1168018744804691968,
+                        "id_str": "1168018744804691968",
+                        "indices": [
+                            27,
+                            42
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/BXdi9Lw7Ip",
+                        "expanded_url": "https://twitter.com/i/web/status/1465305792681328640",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1465206649631744001,
+            "in_reply_to_status_id_str": "1465206649631744001",
+            "in_reply_to_user_id": 3220920230,
+            "in_reply_to_user_id_str": "3220920230",
+            "in_reply_to_screen_name": "the_ben064",
+            "user": {
+                "id": 1401200367224995842,
+                "id_str": "1401200367224995842",
+                "name": "BannedRebel",
+                "screen_name": "FingersFracheti",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4,
+                "friends_count": 166,
+                "listed_count": 0,
+                "created_at": "Sat Jun 05 15:33:15 +0000 2021",
+                "favourites_count": 327,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1205,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1448420717956112385/M_v-eGOe_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448420717956112385/M_v-eGOe_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 49,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Mon Nov 29 12:38:22 +0000 2021",
+        "id": 1465299093815762950,
+        "id_str": "1465299093815762950",
+        "text": "Good morning https://t.co/RSroACkU2u",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RSroACkU2u",
+                    "expanded_url": "https://twitter.com/TexasFootball/status/1459740668818034689",
+                    "display_url": "twitter.com/TexasFootball/\u2026",
+                    "indices": [
+                        13,
+                        36
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1459740668818034689,
+        "quoted_status_id_str": "1459740668818034689",
+        "quoted_status": {
+            "created_at": "Sun Nov 14 04:31:10 +0000 2021",
+            "id": 1459740668818034689,
+            "id_str": "1459740668818034689",
+            "text": "Final Score: Texas - 56 Kansas - 57",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 34286487,
+                "id_str": "34286487",
+                "name": "Texas Football",
+                "screen_name": "TexasFootball",
+                "location": "DBU",
+                "description": "Official Twitter account of The University of Texas Football Team. #ThisIsTexas #HookEm",
+                "url": "https://t.co/An4lpsU9jS",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/An4lpsU9jS",
+                                "expanded_url": "https://www.instagram.com/texasfootball",
+                                "display_url": "instagram.com/texasfootball",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 314365,
+                "friends_count": 491,
+                "listed_count": 1805,
+                "created_at": "Wed Apr 22 14:31:47 +0000 2009",
+                "favourites_count": 2538,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 19376,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "080808",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1345444942068420608/2DVUokEu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345444942068420608/2DVUokEu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/34286487/1614030545",
+                "profile_link_color": "BF5700",
+                "profile_sidebar_border_color": "020500",
+                "profile_sidebar_fill_color": "A5A6A4",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1918,
+            "favorite_count": 11167,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "tl"
+        },
+        "retweet_count": 5,
+        "favorite_count": 188,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 12:35:38 +0000 2021",
+        "id": 1465298407493455878,
+        "id_str": "1465298407493455878",
+        "text": "RT @Eddie_Rado: People are taking this well in Norman. Credit anonymous source via Instagram DMs. https://t.co/Pm2owPPbWU",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Eddie_Rado",
+                    "name": "Eddie Radosevich",
+                    "id": 125764696,
+                    "id_str": "125764696",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1465297008479117313,
+                    "id_str": "1465297008479117313",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                    "url": "https://t.co/Pm2owPPbWU",
+                    "display_url": "pic.twitter.com/Pm2owPPbWU",
+                    "expanded_url": "https://twitter.com/Eddie_Rado/status/1465297014648889346/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1465297014648889346,
+                    "source_status_id_str": "1465297014648889346",
+                    "source_user_id": 125764696,
+                    "source_user_id_str": "125764696"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1465297008479117313,
+                    "id_str": "1465297008479117313",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                    "url": "https://t.co/Pm2owPPbWU",
+                    "display_url": "pic.twitter.com/Pm2owPPbWU",
+                    "expanded_url": "https://twitter.com/Eddie_Rado/status/1465297014648889346/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1465297014648889346,
+                    "source_status_id_str": "1465297014648889346",
+                    "source_user_id": 125764696,
+                    "source_user_id_str": "125764696"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Nov 29 12:30:06 +0000 2021",
+            "id": 1465297014648889346,
+            "id_str": "1465297014648889346",
+            "text": "People are taking this well in Norman. Credit anonymous source via Instagram DMs. https://t.co/Pm2owPPbWU",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1465297008479117313,
+                        "id_str": "1465297008479117313",
+                        "indices": [
+                            82,
+                            105
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                        "url": "https://t.co/Pm2owPPbWU",
+                        "display_url": "pic.twitter.com/Pm2owPPbWU",
+                        "expanded_url": "https://twitter.com/Eddie_Rado/status/1465297014648889346/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1465297008479117313,
+                        "id_str": "1465297008479117313",
+                        "indices": [
+                            82,
+                            105
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FFXH3aDXIAEtVKi.jpg",
+                        "url": "https://t.co/Pm2owPPbWU",
+                        "display_url": "pic.twitter.com/Pm2owPPbWU",
+                        "expanded_url": "https://twitter.com/Eddie_Rado/status/1465297014648889346/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 125764696,
+                "id_str": "125764696",
+                "name": "Eddie Radosevich",
+                "screen_name": "Eddie_Rado",
+                "location": "",
+                "description": "Staff writer/Videographer for @SoonerScoop of the Rivals network. @FranchiseOK Morning Show (6:00-10a). MidFirst Unofficial 40/Eskridge Lexus Postgame Podcast.",
+                "url": "https://t.co/ucik91Bqhx",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ucik91Bqhx",
+                                "expanded_url": "https://oklahoma.rivals.com/",
+                                "display_url": "oklahoma.rivals.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 40918,
+                "friends_count": 1456,
+                "listed_count": 371,
+                "created_at": "Tue Mar 23 20:10:41 +0000 2010",
+                "favourites_count": 44773,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 132872,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1458924008037044231/Narh1BN0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1458924008037044231/Narh1BN0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/125764696/1610063049",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 540,
+            "favorite_count": 4545,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 540,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 04:39:16 +0000 2021",
+        "id": 1465178523237244935,
+        "id_str": "1465178523237244935",
+        "text": "Bill O\u2019Brien https://t.co/nKSmD0oDJp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/nKSmD0oDJp",
+                    "expanded_url": "https://twitter.com/Wild_Bill_OU/status/1465085110999568384",
+                    "display_url": "twitter.com/Wild_Bill_OU/s\u2026",
+                    "indices": [
+                        13,
+                        36
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1465085110999568384,
+        "quoted_status_id_str": "1465085110999568384",
+        "quoted_status": {
+            "created_at": "Sun Nov 28 22:28:05 +0000 2021",
+            "id": 1465085110999568384,
+            "id_str": "1465085110999568384",
+            "text": "Bud. \nBarry. \nBob. \n\nBrent. https://t.co/Vq5oKoxHAn",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1465085107849551879,
+                        "id_str": "1465085107849551879",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FFUHJKsWYAcsgl2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FFUHJKsWYAcsgl2.jpg",
+                        "url": "https://t.co/Vq5oKoxHAn",
+                        "display_url": "pic.twitter.com/Vq5oKoxHAn",
+                        "expanded_url": "https://twitter.com/Wild_Bill_OU/status/1465085110999568384/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 908,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1078,
+                                "h": 1425,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 514,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1465085107849551879,
+                        "id_str": "1465085107849551879",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FFUHJKsWYAcsgl2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FFUHJKsWYAcsgl2.jpg",
+                        "url": "https://t.co/Vq5oKoxHAn",
+                        "display_url": "pic.twitter.com/Vq5oKoxHAn",
+                        "expanded_url": "https://twitter.com/Wild_Bill_OU/status/1465085110999568384/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 908,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1078,
+                                "h": 1425,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 514,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 44058598,
+                "id_str": "44058598",
+                "name": "Wild Bill \ud83c\udf7b 10-2 #BeatBowlOpponent",
+                "screen_name": "Wild_Bill_OU",
+                "location": "Broken Arrow, OK",
+                "description": "there is always something or someone worth celebrating #BoomerSooner #ThunderUp #SKOL #SquadUp",
+                "url": "https://t.co/OeO1Mj9oqR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/OeO1Mj9oqR",
+                                "expanded_url": "http://instagram.com/billyhutcheson",
+                                "display_url": "instagram.com/billyhutcheson",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1729,
+                "friends_count": 1841,
+                "listed_count": 26,
+                "created_at": "Tue Jun 02 04:31:28 +0000 2009",
+                "favourites_count": 93008,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 89326,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1464975893718253570/pdPAKsaY_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1464975893718253570/pdPAKsaY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44058598/1630247124",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "f3665f19993977ca",
+                "url": "https://api.twitter.com/1.1/geo/id/f3665f19993977ca.json",
+                "place_type": "city",
+                "name": "Broken Arrow",
+                "full_name": "Broken Arrow, OK",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -95.8685756,
+                                35.959581
+                            ],
+                            [
+                                -95.671814,
+                                35.959581
+                            ],
+                            [
+                                -95.671814,
+                                36.11903
+                            ],
+                            [
+                                -95.8685756,
+                                36.11903
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 139,
+            "favorite_count": 1649,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "cy"
+        },
+        "retweet_count": 0,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 04:22:04 +0000 2021",
+        "id": 1465174194044522499,
+        "id_str": "1465174194044522499",
+        "text": "Goodnight my beautiful friends",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 59,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 04:10:17 +0000 2021",
+        "id": 1465171231217537031,
+        "id_str": "1465171231217537031",
+        "text": "Just remembered OU has to play at Nebraska next season",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 137,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 03:41:27 +0000 2021",
+        "id": 1465163973297422336,
+        "id_str": "1465163973297422336",
+        "text": "@ImDerBatman #neverforget",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "neverforget",
+                    "indices": [
+                        13,
+                        25
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ImDerBatman",
+                    "name": "Boomer *Big Clown* Beamer",
+                    "id": 2815858645,
+                    "id_str": "2815858645",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1465163869354135554,
+        "in_reply_to_status_id_str": "1465163869354135554",
+        "in_reply_to_user_id": 2815858645,
+        "in_reply_to_user_id_str": "2815858645",
+        "in_reply_to_screen_name": "ImDerBatman",
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Mon Nov 29 03:40:58 +0000 2021",
+        "id": 1465163851415101442,
+        "id_str": "1465163851415101442",
+        "text": "@SpurHorn I\u2019m skeptical",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SpurHorn",
+                    "name": "SpurHorn",
+                    "id": 1255213988452982785,
+                    "id_str": "1255213988452982785",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1465163744086999042,
+        "in_reply_to_status_id_str": "1465163744086999042",
+        "in_reply_to_user_id": 1255213988452982785,
+        "in_reply_to_user_id_str": "1255213988452982785",
+        "in_reply_to_screen_name": "SpurHorn",
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Nov 29 03:40:37 +0000 2021",
+        "id": 1465163763666014214,
+        "id_str": "1465163763666014214",
+        "text": "@troybking When they fired Mack Brown",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "troybking",
+                    "name": "Troy King",
+                    "id": 211224261,
+                    "id_str": "211224261",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1465163684552921093,
+        "in_reply_to_status_id_str": "1465163684552921093",
+        "in_reply_to_user_id": 211224261,
+        "in_reply_to_user_id_str": "211224261",
+        "in_reply_to_screen_name": "troybking",
+        "user": {
+            "id": 1168018744804691968,
+            "id_str": "1168018744804691968",
+            "name": "Cyclone Larry",
+            "screen_name": "CycloneLarry69",
+            "location": "America",
+            "description": "Commissioner of the Big 8. I like beer and tacos and the Iowa State Cyclones #Belieber",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7568,
+            "friends_count": 1277,
+            "listed_count": 23,
+            "created_at": "Sun Sep 01 04:32:31 +0000 2019",
+            "favourites_count": 27368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457506590161002496/MmCAhEvh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168018744804691968/1580339942",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]
