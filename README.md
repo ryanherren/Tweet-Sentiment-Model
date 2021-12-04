@@ -1,0 +1,2 @@
+# Tweet-Sentiment-Model
+# REQUIRED VERSION FOR TWEEPY IS 3.7.0
